@@ -1,28 +1,7 @@
-# Trabalhando em Equipe com GIT
+#Entrega: Trabalhando em equipe com git.
 
-## Como fazer?
+## Fato sobre Cayo
 
-Nessa entrega vocês terão de usar todo seu conhecimento em GIT para trabalhar em equipe.
-
-Vocês deverão descrever um pouco mais sobre o seu relacionamento com a TI. Comente algo como "Escolhi a TI porque..." ou "Meu conhecimento em TI é..." para que seus colegas entendam seu relacionamento com a área.
-
-Cada pessoa deve ter ao menos 1 entrada.
-
-
-Cada entrada deverá ter ao menos:
-1. O seu nome.
-2. Imagem sua ou que represente algo relacionado ao seu hobbie.
-3. Comentário sobre o seu relacionamento com a TI.
-
-__O uso de Branches é obrigatório.__
-
-## Como Enviar?
-
-Depois que todas as pessoas da equipe terminarem o projeto, revisem os passos a seguir no seu projeto e confira se estão corretos:
-
-- [x] Enviar o link do Repositório;
-
-
-## Links
-
-Tenha certeza de enviar o link do repositório do Github.
+1. Cayo Rodrigues;
+2. Tenho 21 anos, nasci em São Paulo - SP e moro em Piranguinho, uma cidade pequena no sul de Minas Gerais;
+3. Comecei a estudar programação em um curso online há alguns meses e me interessei na área. Achei desafiador mas ao mesmo tempo divertido. Um amigo me recomendou a Kenzie e cá estou.
